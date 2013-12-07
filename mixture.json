@@ -1,0 +1,29 @@
+{
+  "debug": false,
+  "domain": null,
+  "lintScripts": false,
+  "modelSource": null,
+  "preprocessorLocations": "assets",
+  "preprocessorScriptOutput": "assets/scripts",
+  "preprocessorStyleOutput": "assets/styles/css",
+  "projectDescription": "A simple empty boilerplate for a fresh start",
+  "projectName": "Basic Start",
+  "publishedId": null,
+  "serverHostname": null,
+  "serverPort": null,
+  "simpleModePartnerServer": null,
+  "templateDefaultLayout": "layout",
+  "templateDefaultPage": "index",
+  "templateDirectory": "templates",
+  "type": "mixture",
+  "useCompass": true,
+  "autoPrefixer": {
+    "active": true,
+    "browsers": [
+      "last 1 version",
+      "> 1%",
+      "ie 8",
+      "ie 7"
+    ]
+  }
+}
